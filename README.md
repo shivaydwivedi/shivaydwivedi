@@ -26,19 +26,7 @@ complete full-stack applications when required.
 - Open to backend development internships, junior roles and collaborations
 ---
 
-## GitHub Achievements
 
-<div align="center">
-
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-Achieved-8250DF?style=for-the-badge&logo=github)
-![YOLO](https://img.shields.io/badge/YOLO-Achieved-DAA520?style=for-the-badge&logo=github)
-![Quickdraw](https://img.shields.io/badge/Quickdraw-Achieved-1F6FEB?style=for-the-badge&logo=github)
-
-![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-Achieved-DB61A2?style=for-the-badge&logo=github)
-![Galaxy Brain](https://img.shields.io/badge/Galaxy%20Brain-Achieved-8957E5?style=for-the-badge&logo=github)
-![Starstruck](https://img.shields.io/badge/Starstruck-Achieved-F1C40F?style=for-the-badge&logo=github)
-
-</div>
 
 These achievements reflect my work with pull requests, collaborative commits,
 GitHub Discussions, repository contributions and open-source workflows.
