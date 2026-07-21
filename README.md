@@ -24,12 +24,6 @@ complete full-stack applications when required.
 - Interested in backend architecture, API security, databases and testing
 - Experienced in building frontend interfaces and full-stack applications
 - Open to backend development internships, junior roles and collaborations
----
-
-
-
-These achievements reflect my work with pull requests, collaborative commits,
-GitHub Discussions, repository contributions and open-source workflows.
 
 ---
 
