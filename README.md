@@ -35,120 +35,169 @@ when a project requires it.
 <tr>
 <td width="50%" valign="top">
 
+### Blogify API
+
+A production-ready blogging REST API built to demonstrate real-world backend
+engineering beyond basic CRUD functionality.
+
+**Backend highlights**
+
+- Custom email-based user model and JWT authentication
+- Refresh-token rotation and blacklisting
+- Posts, comments, replies, likes and bookmarks
+- Notifications and asynchronous email delivery
+- Search, filtering, pagination and role-based permissions
+- PostgreSQL, Redis, Celery, Cloudinary and Docker
+- Swagger/OpenAPI documentation and production deployment
+
+**Technologies**
+
+`Python` · `Django` · `Django REST Framework` · `PostgreSQL`  
+`Redis` · `Celery` · `Docker` · `JWT` · `Cloudinary`
+
+[View repository](https://github.com/shivaydwivedi/blogify-api) ·
+[Live API](https://blogify-api-0ghm.onrender.com) ·
+[API documentation](https://blogify-api-0ghm.onrender.com/api/v1/docs/)
+
+</td>
+<td width="50%" valign="top">
+
+### PagePulse
+
+A production-focused website monitoring and performance-insights platform
+developed through a structured, multi-phase engineering workflow.
+
+**Engineering highlights**
+
+- Production-ready application architecture
+- Website monitoring and performance workflows
+- Security headers and hardened production configuration
+- Automated validation and documentation tests
+- Polished public-facing interface and branding
+- Deployment-focused documentation
+- Comprehensive final verification and production polish
+
+**Primary focus**
+
+`Application Architecture` · `Security` · `Testing`  
+`Monitoring` · `Documentation` · `Production Readiness`
+
+[View repository](https://github.com/shivaydwivedi/PagePulse)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### Reduc.to
 
-A production-oriented URL-shortening platform designed around clean backend
-architecture, analytics, authentication and reliable API practices.
+A deployable URL-shortening and privacy-aware analytics platform built as a
+modern TypeScript monorepo.
 
-**Backend focus**
+**Backend highlights**
 
-- URL generation and redirection
-- Authentication and authorization
-- Analytics and database design
-- API security and validation
-- Testing and deployment
+- Short-link creation and reliable redirection
+- Secure authentication and authorization
+- Privacy-aware click analytics
+- PostgreSQL data modelling with Prisma
+- Redis-backed infrastructure
+- Automated linting, type checking and testing
+- Workspace-based monorepo architecture
+- Production-ready MVP and deployment configuration
+
+**Technologies**
+
+`TypeScript` · `Node.js` · `Prisma` · `PostgreSQL`  
+`Redis` · `React` · `REST APIs` · `Monorepo`
 
 [View repository](https://github.com/shivaydwivedi/Reduc.to)
 
 </td>
 <td width="50%" valign="top">
 
-### Blogify API
-
-A structured backend project for building a professional blogging REST API,
-supported by extensive planning and engineering documentation.
-
-**Backend focus**
-
-- REST API design
-- Database architecture
-- Authentication
-- Input validation
-- Error handling and testing
-
-[View repository](https://github.com/shivaydwivedi/blogify-api)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 ### ChatWat
 
-A real-time chat application with persistent message history, REST endpoints
-and live Socket.IO communication.
+A real-time full-stack chat application with persistent message history,
+REST endpoints and live Socket.IO communication.
+
+**Engineering highlights**
+
+- Instant real-time message delivery
+- Persistent message history across refreshes
+- REST APIs for creating and retrieving messages
+- Socket.IO event-driven communication
+- SQLite-backed data persistence
+- Layered backend architecture
+- Connection-state and error handling
+- Responsive React interface
 
 **Technologies**
 
-- Node.js and Express
-- Socket.IO
-- SQLite
-- React
-- REST APIs
+`React` · `Node.js` · `Express` · `Socket.IO`  
+`SQLite` · `REST APIs`
 
 [View repository](https://github.com/shivaydwivedi/chatwat)
 
 </td>
-<td width="50%" valign="top">
-
-### Django Music Player
-
-An older Django application recovered, analyzed and improved with safer
-database handling and regression testing.
-
-**Backend focus**
-
-- Django application recovery
-- Database safety
-- Error handling
-- Regression testing
-- Runtime verification
-
-[View repository](https://github.com/shivaydwivedi/DJANGO_MUSIC_PLAYER)
-
-</td>
 </tr>
 
 <tr>
 <td width="50%" valign="top">
 
-### Image Recognition as a Service
+### Sonica
 
-An image-recognition-focused application combining backend services with
-machine-learning-oriented functionality.
+A recovered and modernized Django music-streaming application rebuilt from an
+older codebase into a safer, tested and deployment-ready project.
 
-**Focus**
+**Backend highlights**
 
-- Backend service integration
-- Image-processing workflows
-- Application architecture
-- Machine-learning functionality
+- Legacy Django application recovery
+- Safe handling of empty libraries and missing media
+- Improved database and runtime reliability
+- PostgreSQL production support
+- Static-file delivery with WhiteNoise
+- Regression, integration and smoke testing
+- Production deployment configuration
+- Extensive runtime verification
 
-[View repository](https://github.com/shivaydwivedi/image-recognition-as-a-service)
+**Technologies**
+
+`Python` · `Django` · `PostgreSQL` · `WhiteNoise`  
+`Waitress` · `HTML` · `CSS` · `JavaScript`
+
+[View repository](https://github.com/shivaydwivedi/DJANGO_MUSIC_PLAYER)
 
 </td>
 <td width="50%" valign="top">
 
-### Frontend for Intermediates
+### Intro to Frontend
 
-A collection of progressively challenging frontend projects focused on
-accessibility, responsive design, APIs and modern JavaScript.
+A collection of ten beginner-friendly frontend projects documenting my
+progress from fundamental web development to interactive JavaScript
+applications.
 
-**Focus**
+**Project highlights**
 
-- Accessible interfaces
-- Responsive design
+- Ten independently structured frontend projects
+- Responsive and accessible interfaces
+- Semantic HTML and modern CSS
+- DOM manipulation and event handling
+- Form validation and browser storage
 - API integration
-- JavaScript and React
-- Frontend testing
+- Progressive project-based learning
+- Clear starter and completed implementations
 
-[View repository](https://github.com/shivaydwivedi/frontend_for_intermediates)
+**Technologies**
+
+`HTML5` · `CSS3` · `JavaScript` · `REST APIs`  
+`Responsive Design` · `Accessibility`
+
+[View repository](https://github.com/shivaydwivedi/Intro_to_frontend)
 
 </td>
 </tr>
 </table>
-
 ---
 
 ## Backend Engineering
