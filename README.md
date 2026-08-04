@@ -11,7 +11,7 @@ I also have frontend experience and can build complete full-stack applications
 when a project requires it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shivay_Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivay-dwivedi-54785b304/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-161B22?style=for-the-badge&logo=vercel&logoColor=white)](https://shivay-notebook-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-161B22?style=for-the-badge&logo=vercel&logoColor=white)](#)
 [![X](https://img.shields.io/badge/X-@polymath1510-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/polymath1510)
 
 </div>
